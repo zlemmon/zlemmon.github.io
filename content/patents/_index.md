@@ -1,4 +1,4 @@
 ---
-title: "Papers"
-description: "Papers by Zachary Lemmon."
+title: "Patents"
+description: "Patents by Zachary Lemmon."
 ---
