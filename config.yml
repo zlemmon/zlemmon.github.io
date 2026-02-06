@@ -15,12 +15,12 @@ menu:
         - name: Papers
           url: papers/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Patents
+          url: patents/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
+        - name: Tags
+          url: tags/
+          weight: 4
 
 params:
     description: "This website hosts Zachary Lemmon's research papers, patents, curriculum vitae, and contact information."
@@ -59,18 +59,8 @@ params:
               url: papers/
             - name: Patents
               url: patents/
-#            - name: Data
-#              url: data/
-#            - name: Books
-#              url: books/
-#            - name: Courses
-#              url: courses/
             - name: Tags
               url: tags/
-#            - name: Archive
-#              url: archive/
-#            - name: Blog
-#              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
@@ -84,15 +74,7 @@ params:
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=9IeZnSAAAAAJ&hl=en
         - name: GitHub
-          url: https://github.com/pmichaillat
-#        - name: Substack
-#          url: https://pmichaillat.substack.com
-#        - name: YouTube
-#          url: https://www.youtube.com/@pmichaillat
-#        - name: Twitter
-#          url: https://x.com/pmichaillat
-#        - name: Bluesky
-#          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://github.com/zlemmon
 
     assets:
         disableScrollBarStyle: true
