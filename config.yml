@@ -51,7 +51,7 @@ params:
           title: Zachary H. Lemmon
           subtitle: "I am a computational biologist with over a decade of experience in academic and industry settings. My research focuses on leveraging bioinformatic and multi-omic modeling approaches to understand and exploit the inheritance of complex traits to benefit the human condition. I was a doctoral student of Dr. John Doebley at the University of Wisconsin, and later a post doctoral researcher with Dr. Zach Lippman at Cold Spring Harbor Laboratory. Most recently I spent time developing the genomic prediction program at Inari Agriculture."
 
-          imageUrl: "picture.jpeg"
+          imageUrl: "picture.png"
           imageWidth: 160
           imageHeight: 160
           buttons:
